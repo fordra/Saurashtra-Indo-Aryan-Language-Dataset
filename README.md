@@ -7,4 +7,4 @@ Dr. Suresh Jaganathan, Department of Computer Science and Engineering, Sri Sivas
 
 &
 
-Dr. Kathika Veeramani, School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, Tamil Nadu, India.  
+Dr. Karthika Veeramani, School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, Tamil Nadu, India.  
